@@ -35,9 +35,11 @@ This will help you to prepare for the Machine learning and NLP LPU exam. It incl
 
 ![photo1690048836 (2)](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/eb64b509-7986-466e-9edc-4e9ef207a30e)
 
-##Machine learning handwritten notes ![msg1115773383-2081](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/206ac859-4374-4cf9-b036-a39a1e6345de)
-![msg1115773383-2086](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/5b075631-362e-4cd2-b9b3-10de933cdb96)
-![msg1115773383-2083](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/ecff3e20-515a-4f44-a00f-4b7cb385852b)
+## Machine learning handwritten notes 
+## Download ML handwritten note pdf from hear 👉👉
+[Adobe Scan 23-Jul-2023.pdf](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137161/Adobe.Scan.23-Jul-2023.pdf)
+
+![photo1690055641](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/78bf0d71-2ace-4b85-8e59-a5540f504b8f)
 ![msg1115773383-2054](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/d9306b49-6ef2-401a-9a0d-fd329fedbb25)
 ![msg1115773383-2053](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/9fcae003-d924-45a5-a3e2-ece9dd796075)
 ![msg1115773383-2058](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/508f272f-2c04-4193-bf11-d9c8206bd89a)
@@ -57,7 +59,7 @@ This will help you to prepare for the Machine learning and NLP LPU exam. It incl
 example image of pdf note
 ![msg1115773383-2129](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/2e698cc0-a9d1-4ce6-9271-f969255022b1)
 
-## Download NLP hand written note pdf from hear 👉👉
+## Download NLP handwritten note pdf from hear 👉👉
 [Adobe Scan 22-Jul-2023.pdf](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137025/Adobe.Scan.22-Jul-2023.pdf)
 
 ## Best of luck and happy learning😃👍.
