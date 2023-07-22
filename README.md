@@ -8,11 +8,13 @@ This will help you to prepare for the Machine learning and NLP LPU exam. It incl
 ![like-press-like](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/04ac3ab4-5453-472a-ad7d-45cd199193b4)
 
  ## int354 -> ML & int344 -> NLP
-## End-term pattern for machine learning & NLP.
 
 ## MCQS download it 👉👉
+# 1.
 [INT354_Question_Bank (1).pdf](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137097/INT354_Question_Bank.1.pdf)
+# 2.
 [ML_Ca_2[1] (1).pdf](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137096/ML_Ca_2.1.1.pdf)
+# 3.
 [INT354_Question_Bank (1).docx](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137095/INT354_Question_Bank.1.docx)
 
 ## ETE Q paper of ML:
