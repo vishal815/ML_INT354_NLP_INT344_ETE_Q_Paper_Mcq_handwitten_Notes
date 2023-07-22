@@ -1,16 +1,19 @@
 # ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes
-This will help you to prepare for the Machine learning and NLP exam of LPU. It includes ETE paper and all handwritten notes and recommended mcqs .
+This will help you to prepare for the Machine learning and NLP LPU exam. It includes ETE paper and all handwritten notes and recommended mcqs.
+-Total Marks:- 100 
+- *MCQ* weightage :- 25
+- *Subjective✍️ : - 75
 
-#If it's helpful please give a star to my repo.
+# If it's helpful please give a star to my repo.
 ![like-press-like](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/04ac3ab4-5453-472a-ad7d-45cd199193b4)
 
  ## int354 -> ML & int344 -> NLP
-
 ## End-term pattern for machine learning & NLP.
 
--Total Marks :- 100 
-- *MCQ* weightage :- 25
-- *Subjective✍️ : - 75
+## MCQS download it 👉👉
+[INT354_Question_Bank (1).pdf](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137097/INT354_Question_Bank.1.pdf)
+[ML_Ca_2[1] (1).pdf](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137096/ML_Ca_2.1.1.pdf)
+[INT354_Question_Bank (1).docx](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137095/INT354_Question_Bank.1.docx)
 
 ## ETE Q paper of ML:
 ![photo1690037748](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/080e56e6-d4ba-4f48-9209-38af639e77b4)
@@ -49,9 +52,10 @@ This will help you to prepare for the Machine learning and NLP exam of LPU. It i
 
 
 ## NLP handwritten notes
-example image go through the pdf
+example image of pdf note
 ![msg1115773383-2129](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/2e698cc0-a9d1-4ce6-9271-f969255022b1)
 
+## Download NLP hand written note pdf from hear 👉👉
 [Adobe Scan 22-Jul-2023.pdf](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137025/Adobe.Scan.22-Jul-2023.pdf)
 
 ## Best of luck and happy learning😃👍.
