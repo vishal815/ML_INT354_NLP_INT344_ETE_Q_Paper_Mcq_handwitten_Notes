@@ -18,21 +18,19 @@ This will help you to prepare for the Machine learning and NLP LPU exam. It incl
 [INT354_Question_Bank (1).docx](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/files/12137095/INT354_Question_Bank.1.docx)
 
 ## ETE Q paper of ML:
-![msg1115773383-2151](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/b6839d60-d29b-480b-9d09-36d55e1fb557)
+![msg1115773383-2153](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/5bbe7465-3191-499b-b5da-7501a984f412)
 
 ![msg1115773383-2152](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/2f9a5551-c2fd-4971-ac72-c02a0f4b2e3b)
 
-![msg1115773383-2153](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/5bbe7465-3191-499b-b5da-7501a984f412)
-
-
+![msg1115773383-2151](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/b6839d60-d29b-480b-9d09-36d55e1fb557)
 ![photo1690037748](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/080e56e6-d4ba-4f48-9209-38af639e77b4)
 # ML ca mcq questions for practice
-![msg1115773383-2134](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/93ae0c9a-26c8-4bc5-845e-16cb4b0019f1)
+![msg1115773383-2137](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/acba6e64-c450-44e5-a2dd-31901bc7adae)
+
 
 ![msg1115773383-2135](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/858c90e6-1af0-4c53-8601-70fd20f8a929)
 ![msg1115773383-2136](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/35b9a9b3-ca56-44b3-93d2-db661a115f13)
-
-![msg1115773383-2137](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/acba6e64-c450-44e5-a2dd-31901bc7adae)
+![msg1115773383-2134](https://github.com/vishal815/ML_INT354_NLP_INT344_ETE_Q_Paper_Mcq_handwitten_Notes/assets/83393190/93ae0c9a-26c8-4bc5-845e-16cb4b0019f1)
 
 # verify the answer by your side.
 1 - C or D
